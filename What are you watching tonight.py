@@ -139,7 +139,7 @@ L2 = tk.Label(window, text="🤔🧚‍♀️📺✨",
               font=("Times New Roman",15), bg="#BFD7ED")
 L2.place(x=450, y=80)
 
-b1 = tk.Button(window, text="Suggest Movie", font=("Times New Roman", 15),
+b1 = tk.Button(window, text="Suggest Title", font=("Times New Roman", 15),
                bg="#111410", fg="#003b73", command=suggest)
 b1.place(x=420, y=200)
 
