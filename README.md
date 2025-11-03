@@ -1,2 +1,3 @@
 # what-are-you-watching-tonight
-blah blah 
+
+Create content ideas etc. 
